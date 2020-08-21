@@ -2,21 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gallery.shawnrain.xyz</id>
     <title>Shawn Rain&apos;s Gallery</title>
-    <updated>2020-08-21T08:46:40.319Z</updated>
+    <updated>2020-08-21T09:08:10.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gallery.shawnrain.xyz"/>
     <link rel="self" href="https://gallery.shawnrain.xyz/atom.xml"/>
-    <subtitle>&lt;center&gt;An spare-time photographer&apos;s personal gallery.&lt;/center&gt;</subtitle>
+    <subtitle>An spare-time photographer&apos;s personal gallery.</subtitle>
     <logo>https://gallery.shawnrain.xyz/images/avatar.png</logo>
     <icon>https://gallery.shawnrain.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, Shawn Rain&apos;s Gallery</rights>
     <entry>
-        <title type="html"><![CDATA[A spare-time photographer.]]></title>
+        <title type="html"><![CDATA[Meow ~]]></title>
+        <id>https://gallery.shawnrain.xyz/post/meow-~/</id>
+        <link href="https://gallery.shawnrain.xyz/post/meow-~/">
+        </link>
+        <updated>2020-08-21T09:02:14.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Afternoon.]]></title>
+        <id>https://gallery.shawnrain.xyz/post/afternoon/</id>
+        <link href="https://gallery.shawnrain.xyz/post/afternoon/">
+        </link>
+        <updated>2020-08-21T09:00:41.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flower.]]></title>
+        <id>https://gallery.shawnrain.xyz/post/flower/</id>
+        <link href="https://gallery.shawnrain.xyz/post/flower/">
+        </link>
+        <updated>2020-08-21T08:51:36.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Night.]]></title>
         <id>https://gallery.shawnrain.xyz/post/a-spare-time-photographer/</id>
         <link href="https://gallery.shawnrain.xyz/post/a-spare-time-photographer/">
         </link>
         <updated>2020-08-21T08:33:57.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://pic.downk.cc/item/5f3f8807160a154a67ad3c28.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<p>4830 × 2717</p>
 ]]></content>
     </entry>
 </feed>
